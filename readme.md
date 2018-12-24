@@ -8,7 +8,7 @@ This project is showing how to import data from CSV file, and matching CSV colum
 
 Also showing how to deal with CSV files with/without header rows, using plain PHP functions and [maatwebsite/excel package](https://github.com/Maatwebsite/Laravel-Excel).
 
-![Laravel Import CSV](https://laraveldaily.com/wp-content/uploads/2018/11/import-csv.png)
+![Laravel Import CSV](https://res.cloudinary.com/srb/image/upload/v1545644959/field_mapping.png)
 
 ---
 
