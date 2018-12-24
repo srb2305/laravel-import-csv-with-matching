@@ -1,0 +1,8 @@
+title,sku,description,price,quantity,category
+test,123654,test desc,123,5,shirt|paint|watch
+test1,123,test desc,234,6,paint
+test2,124,test desc,235,7,shirt
+test3,125,test desc,236,8,mouce
+test4,126,test desc,237,9,shirt
+test5,127,test desc,238,10,keyboard
+test6,128,test desc,239,11,pc

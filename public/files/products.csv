@@ -1,0 +1,8 @@
+title,sku,description,price,quantity,category
+test,123654,test desc,123,5,1
+test1,123,test desc,234,6,2
+test2,124,test desc,235,7,1
+test3,125,test desc,236,8,2
+test4,126,test desc,237,9,2
+test5,127,test desc,238,10,1
+test6,128,test desc,239,11,1
