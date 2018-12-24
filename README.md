@@ -1,7 +1,3 @@
-## This project devloped by : Saurabh Sahu
-## For any query Contact : web.saurabhsahu@gmail.com
------------------------------------------
-
 ## Laravel 5.5 Import CSV With matching
 
 This project is showing how to import data from CSV file, and matching CSV columns with database columns.
@@ -25,7 +21,7 @@ Also showing how to deal with CSV files with/without header rows, using plain PH
 ---
 
 
-##In this Project
+##In this Project : field mapper integration
 
 ● Product Module (Basic Fields - title, SKU, description, price, quantity)
 ● Category Module (Basic Fields - title)
@@ -42,3 +38,8 @@ system fields list and on right side show dropdown of CSV/Excel heading fields.
 for a product can be added separated by “|”.
 - If category exist in category, then just assign its id to product, otherwise add new
 category and then assign it to a product.
+
+----------------------
+## This project devloped by : Saurabh Sahu
+## For any query Contact : web.saurabhsahu@gmail.com
+-----------------------------------------
